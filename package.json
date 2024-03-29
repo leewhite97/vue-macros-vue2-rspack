@@ -1,0 +1,23 @@
+{
+  "name": "rspack-vue-starter",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "dev": "rspack serve",
+    "build": "rspack build"
+  },
+  "dependencies": {
+    "vue": "2.7.9"
+  },
+  "devDependencies": {
+    "@rspack/cli": "0.5.9",
+    "@rspack/core": "0.5.9",
+    "unplugin-vue-macros": "^2.8.0",
+    "vue-loader": "^15.11.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
